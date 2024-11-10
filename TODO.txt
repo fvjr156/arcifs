@@ -1,0 +1,8 @@
+C - done
+R - DO FRONTEND
+U - why would you edit response data?
+D - do it
+
+document your program's logic
+
+DO YOUR FRONTEND
